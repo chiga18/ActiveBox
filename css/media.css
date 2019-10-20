@@ -56,4 +56,16 @@
     .works__item{
         width: 100%;
     }
+    /* --------- TEAM --------- */
+    .team__inner{
+        flex-direction: column;
+        align-items: center;
+    }
+    .team__item{
+        margin-bottom: 25px;
+        text-align: center;
+    }
+    .social__btns{
+        justify-content: center;
+    }
 }
